@@ -1,4 +1,4 @@
-# Teste OCR em Python com Tesseract
+# FastTrack de OCR em Python com Tesseract
 
 OCR em Python utilizando Tesseract  
 
@@ -42,7 +42,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\t
 pytesseract.pytesseract.tesseract_cmd = r'SEU CAMINHO AQUI\tesseract.exe'
 ```
 
-### :godmode: Mais, eu quero mais
+### :smiling_imp: Mais, eu quero mais
 
 Neste repositório há também o arquivo <i>preprocessing.py</i> que traz algumas rotinas de preparação da imagem com o OpenCV, para melhorar a performance do OCR. 
 Utilize do código comentado em <i>ocr.py</i> e brinque à vontade. :gift:
