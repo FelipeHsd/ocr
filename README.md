@@ -50,7 +50,3 @@ Utilize do código comentado em <i>ocr.py</i> e brinque à vontade. :gift:
 
 #### :floppy_disk: Fonte original de pesquisa:
 https://nanonets.com/blog/ocr-with-tesseract/
-
-
-
-> Contribua com este aplicativo! :mailbox:
