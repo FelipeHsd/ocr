@@ -1,6 +1,6 @@
 # FastTrack de OCR em Python com Tesseract
 
-OCR em Python utilizando Tesseract  
+Retirando facilmente texto de imagem com Python.
 
 <sub>Diga "Oi" <br> 
   <a href="https://medium.com/dev-in-anything"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
