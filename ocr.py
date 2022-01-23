@@ -11,6 +11,8 @@ print(pytesseract.image_to_string(img, config=custom_config))
 
 
 '''
+#teste
+
 image = cv2.imread('teste.png')
 
 gray = pp.grayscale(image)
