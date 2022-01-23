@@ -2,7 +2,7 @@
 
 Retirando facilmente texto de imagem com Python.
 
-<sub>Diga "Oi" <br> 
+<sub>
   <a href="https://medium.com/dev-in-anything"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
   <a href="https://www.linkedin.com/in/hideraldoluis/"><img src="https://img.shields.io/badge/LinkedIn-%40hideraldoluis_-blue.svg"/></a>
 </sub>
